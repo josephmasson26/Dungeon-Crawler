@@ -1,0 +1,196 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.cs2340b_team33dungeoncrawler"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.REORDER_TASKS" />
+11-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:24:5-72
+11-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:24:22-69
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] /Users/josephmasson/.gradle/caches/transforms-3/66ed85c701f6c9fc115b0f5b6156f6bb/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+14        android:name="com.example.cs2340b_team33dungeoncrawler.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] /Users/josephmasson/.gradle/caches/transforms-3/66ed85c701f6c9fc115b0f5b6156f6bb/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] /Users/josephmasson/.gradle/caches/transforms-3/66ed85c701f6c9fc115b0f5b6156f6bb/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.example.cs2340b_team33dungeoncrawler.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] /Users/josephmasson/.gradle/caches/transforms-3/66ed85c701f6c9fc115b0f5b6156f6bb/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] /Users/josephmasson/.gradle/caches/transforms-3/66ed85c701f6c9fc115b0f5b6156f6bb/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:5:5-44:19
+20        android:allowBackup="true"
+20-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:6:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.9.0] /Users/josephmasson/.gradle/caches/transforms-3/66ed85c701f6c9fc115b0f5b6156f6bb/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+22        android:dataExtractionRules="@xml/data_extraction_rules"
+22-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:7:9-65
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:8:9-54
+26        android:icon="@drawable/_2"
+26-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:9:9-36
+27        android:label="@string/app_name"
+27-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:10:9-41
+28        android:roundIcon="@drawable/_2"
+28-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:11:9-41
+29        android:supportsRtl="true"
+29-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:12:9-35
+30        android:testOnly="true"
+31        android:theme="@style/Theme.CS2340B_Team33DungeonCrawler" >
+31-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:13:9-66
+32        <activity
+32-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:14:9-22:20
+33            android:name="com.example.cs2340b_team33dungeoncrawler.views.MainActivity"
+33-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:15:13-47
+34            android:exported="true"
+34-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:16:13-36
+35            android:screenOrientation="landscape" >
+35-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:17:13-50
+36            <intent-filter>
+36-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:18:13-21:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:19:17-69
+37-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:19:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:20:17-77
+39-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:20:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity
+42-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:23:9-25:52
+43            android:name="com.example.cs2340b_team33dungeoncrawler.viewmodels.StartGame"
+43-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:23:19-55
+44            android:exported="false"
+44-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:24:13-37
+45            android:screenOrientation="landscape" />
+45-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:25:13-50
+46        <activity
+46-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:26:9-28:52
+47            android:name="com.example.cs2340b_team33dungeoncrawler.viewmodels.Room1"
+47-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:26:19-51
+48            android:exported="false"
+48-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:27:13-37
+49            android:screenOrientation="landscape" />
+49-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:28:13-50
+50        <activity
+50-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:29:9-31:52
+51            android:name="com.example.cs2340b_team33dungeoncrawler.viewmodels.Room2"
+51-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:29:19-51
+52            android:exported="false"
+52-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:30:13-37
+53            android:screenOrientation="landscape" />
+53-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:31:13-50
+54        <activity
+54-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:32:9-34:52
+55            android:name="com.example.cs2340b_team33dungeoncrawler.viewmodels.Room3"
+55-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:32:19-51
+56            android:exported="false"
+56-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:33:13-37
+57            android:screenOrientation="landscape" />
+57-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:34:13-50
+58        <activity
+58-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:35:9-37:52
+59            android:name="com.example.cs2340b_team33dungeoncrawler.viewmodels.EndScreen"
+59-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:35:19-55
+60            android:exported="false"
+60-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:36:13-37
+61            android:screenOrientation="landscape" />
+61-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:37:13-50
+62        <activity
+62-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:38:9-40:52
+63            android:name="com.example.cs2340b_team33dungeoncrawler.viewmodels.GameOverScreen"
+63-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:38:19-60
+64            android:exported="false"
+64-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:39:13-37
+65            android:screenOrientation="landscape" />
+65-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:40:13-50
+66
+67        <meta-data
+67-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:41:9-43:57
+68            android:name="preloaded_fonts"
+68-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:42:13-43
+69            android:resource="@array/preloaded_fonts" />
+69-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:43:13-54
+70
+71        <activity
+71-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:27:9-34:20
+72            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+72-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:28:13-99
+73            android:exported="true"
+73-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:29:13-36
+74            android:theme="@style/WhiteBackgroundTheme" >
+74-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:30:13-56
+75            <intent-filter android:priority="-100" >
+75-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
+75-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
+76                <category android:name="android.intent.category.LAUNCHER" />
+76-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:20:17-77
+76-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:20:27-74
+77            </intent-filter>
+78        </activity>
+79        <activity
+79-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:35:9-42:20
+80            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+80-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:36:13-95
+81            android:exported="true"
+81-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:37:13-36
+82            android:theme="@style/WhiteBackgroundTheme" >
+82-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:38:13-56
+83            <intent-filter android:priority="-100" >
+83-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
+83-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
+84                <category android:name="android.intent.category.LAUNCHER" />
+84-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:20:17-77
+84-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:20:27-74
+85            </intent-filter>
+86        </activity>
+87        <activity
+87-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:43:9-50:20
+88            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+88-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:44:13-103
+89            android:exported="true"
+89-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:45:13-36
+90            android:theme="@style/WhiteBackgroundDialogTheme" >
+90-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:46:13-62
+91            <intent-filter android:priority="-100" >
+91-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:31:13-33:29
+91-->[androidx.test:core:1.5.0] /Users/josephmasson/.gradle/caches/transforms-3/866dc26c566afcc7b6955923bf9d6c50/transformed/core-1.5.0/AndroidManifest.xml:31:28-51
+92                <category android:name="android.intent.category.LAUNCHER" />
+92-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:20:17-77
+92-->/Users/josephmasson/Documents/GitHub/Dungeon-Crawler/app/src/main/AndroidManifest.xml:20:27-74
+93            </intent-filter>
+94        </activity>
+95
+96        <provider
+96-->[androidx.emoji2:emoji2:1.2.0] /Users/josephmasson/.gradle/caches/transforms-3/e705b2b022ec4c81d401694c86ace512/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+97            android:name="androidx.startup.InitializationProvider"
+97-->[androidx.emoji2:emoji2:1.2.0] /Users/josephmasson/.gradle/caches/transforms-3/e705b2b022ec4c81d401694c86ace512/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+98            android:authorities="com.example.cs2340b_team33dungeoncrawler.androidx-startup"
+98-->[androidx.emoji2:emoji2:1.2.0] /Users/josephmasson/.gradle/caches/transforms-3/e705b2b022ec4c81d401694c86ace512/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+99            android:exported="false" >
+99-->[androidx.emoji2:emoji2:1.2.0] /Users/josephmasson/.gradle/caches/transforms-3/e705b2b022ec4c81d401694c86ace512/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+100            <meta-data
+100-->[androidx.emoji2:emoji2:1.2.0] /Users/josephmasson/.gradle/caches/transforms-3/e705b2b022ec4c81d401694c86ace512/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+101                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+101-->[androidx.emoji2:emoji2:1.2.0] /Users/josephmasson/.gradle/caches/transforms-3/e705b2b022ec4c81d401694c86ace512/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+102                android:value="androidx.startup" />
+102-->[androidx.emoji2:emoji2:1.2.0] /Users/josephmasson/.gradle/caches/transforms-3/e705b2b022ec4c81d401694c86ace512/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+103            <meta-data
+103-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/josephmasson/.gradle/caches/transforms-3/d52d412db771db6551ceb94eedde2244/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+104                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+104-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/josephmasson/.gradle/caches/transforms-3/d52d412db771db6551ceb94eedde2244/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+105                android:value="androidx.startup" />
+105-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/josephmasson/.gradle/caches/transforms-3/d52d412db771db6551ceb94eedde2244/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+106        </provider>
+107    </application>
+108
+109</manifest>
