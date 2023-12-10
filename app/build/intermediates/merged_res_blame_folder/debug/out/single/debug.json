@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/layout-land_config_screen.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/layout-land/config_screen.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_bosssprite.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/bosssprite.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_room1.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/room1.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/layout_room3.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/layout/room3.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_room1point2.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/room1point2.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_sprite3_mace.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/sprite3_mace.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_gruntsprite.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/gruntsprite.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/layout-land_room2.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/layout-land/room2.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_health_potion.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/health_potion.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/layout-land_gameover_screen.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/layout-land/gameover_screen.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_room3point2.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/room3point2.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/layout_room2.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/layout/room2.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable__2.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/_2.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable__2_jpeg.jpeg.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/_2_jpeg.jpeg"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_nuke_sprite.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/nuke_sprite.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/font_contrail_one.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/font/contrail_one.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_knight_pinkhair.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/knight_pinkhair.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/layout-land_room3.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/layout-land/room3.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_sprite2_axe.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/sprite2_axe.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_sprite2.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/sprite2.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/layout_gameover_screen.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/layout/gameover_screen.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/layout_start_screen.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/layout/start_screen.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/font_akronim.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/font/akronim.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_largesprite.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/largesprite.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_room3.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/room3.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_dungeon_tileset.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/dungeon_tileset.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/layout-land_end_screen.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/layout-land/end_screen.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/layout-land_room1.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/layout-land/room1.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_attack_axe.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/attack_axe.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/layout-land_start_screen.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/layout-land/start_screen.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_sprite3.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/sprite3.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_sprite1_sword.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/sprite1_sword.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/layout_room1.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/layout/room1.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/layout_end_screen.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/layout/end_screen.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_room2.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/room2.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_sprite1.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/sprite1.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_smallsprite.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/smallsprite.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_room2point2.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/room2point2.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/drawable_attack_potion.png.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/drawable/attack_potion.png"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/layout_config_screen.xml.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/layout/config_screen.xml"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cs2340b_team33dungeoncrawler.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.cs2340b_team33dungeoncrawler.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    }
+]
