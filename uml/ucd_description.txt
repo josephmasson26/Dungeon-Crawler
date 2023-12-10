@@ -1,0 +1,11 @@
+1.
+Player: Primary
+Game Admin: Supporting
+Third-party database service: Supporting
+Shareholder: Off-stage
+Contractor Company: Off-stage
+International Game Developers Association: Off-stage
+
+2.
+Game Critic: Off-stage
+Game Developer: Off-stage

@@ -1,0 +1,67 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "room3_ts.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "dg.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "room1_ts.tmx": {
+            "scale": 1.8623958333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 259.3433637228033,
+                "y": 153.56563566194976
+            }
+        },
+        "room2_ts.tmx": {
+            "scale": 1.6312956204379563,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 274.01532524190384,
+                "y": 167.35164159069296
+            }
+        },
+        "room2_ts.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "room3_ts.tmx": {
+            "scale": 1.6312956204379563,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 274.01532524190384,
+                "y": 167.35164159069296
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/Teddy/Documents/Academics/CS Basics/CS_2340/CS2340B_Team33/tileset/0x72_DungeonTilesetII_v1.6",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "room1_ts.tmx",
+        "dg.tsx",
+        "room2_ts.tmx",
+        "room3_ts.tmx"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "room1_ts.tmx",
+        "dg.tsx",
+        "room2_ts.tmx",
+        "room3_ts.tmx",
+        "room2_ts.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
