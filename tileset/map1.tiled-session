@@ -1,0 +1,25 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "dg.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "dg.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Teddy/Documents/Academics/CS Basics/CS_2340/CS2340B_Team33/tileset/0x72_DungeonTilesetII_v1.6",
+    "openFiles": [
+        "dg.tsx"
+    ],
+    "project": "map1.tiled-project",
+    "recentFiles": [
+        "dg.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
